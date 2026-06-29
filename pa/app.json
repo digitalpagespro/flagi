@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Jaka To Flaga?",
+    "slug": "jaka-to-flaga",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android"
+    ],
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.jakatoflaga.quiz",
+      "versionCode": 1,
+      "edgeToEdgeEnabled": true
+    },
+    "extra": {
+      "targetPlatform": "android",
+      "eas": {
+        "projectId": "fdf7f3fe-7a1b-4fa8-8801-c4b675ebe8ba"
+      }
+    }
+  }
+}
